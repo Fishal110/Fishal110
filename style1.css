@@ -145,7 +145,8 @@ div #sketsa .gambar{
 #foto img{
     width: 500px;
     border-radius: 30%;
-    position: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #harga{
@@ -153,6 +154,8 @@ div #sketsa .gambar{
     font-family: Comic Sans MS;
     text-transform: capitalize;
     color: #FF001B;
+    margin-left: auto;
+    margin-right: auto;
 }
 #harga:hover{
     font-size: 60px;
